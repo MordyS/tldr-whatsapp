@@ -20,7 +20,7 @@ This project helps generate concise summaries (TL;DR) of long chats in WhatsApp 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/tldr-whatsapp.git
+   git clone https://github.com/MordyS/tldr-whatsapp.git
    cd tldr-whatsapp
    ```
 
